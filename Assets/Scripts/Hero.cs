@@ -22,4 +22,9 @@ public class Hero : MonoBehaviour
             //hero.Play("Attack");
         }
     }
+
+    void Awake()
+    {
+
+    }
 }
